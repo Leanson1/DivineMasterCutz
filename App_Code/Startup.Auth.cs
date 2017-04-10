@@ -30,9 +30,9 @@ namespace DivineMasterCutz
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            app.UseFacebookAuthentication(
+               appId: "404979339883620",
+               appSecret: "cb07155f3e4ba91fecd19c5a2114dd65");
 
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             //{
