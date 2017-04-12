@@ -22,14 +22,23 @@
         <div class="col-md-4">
             <h2>Barber shop services</h2>
             <p>
-                ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-            A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
+                Cutz <br>
+                Fades<br>
+                Shaves<br>
+                Desgins<br>
+                Razor edge up<br>
             </p>
         </div>
         <div class="col-md-4">
-            <h2>Salon Services</h2>
+            <h2>Professional Stylist</h2>
             <p>
-                NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
+                Cutz <br>
+                Color<br>
+                Dreds<br>
+                Up-dos<br>
+                Weaves<br>
+                Relaxers<br>
+                Extensions<br>
             </p>
         </div>
         <div class="col-md-4">
@@ -37,13 +46,14 @@
             <div class="fb-page" data-href="https://m.facebook.com/DivineMasterCutz/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://m.facebook.com/DivineMasterCutz/" class="fb-xfbml-parse-ignore"><a href="https://m.facebook.com/DivineMasterCutz/">Divine Master Cutz/SALON</a></blockquote></div>
         </div>
          <div class="fb-quote">
-            <article>
+            <article class="fb-quote"> 
   <h1>Shareable</h1>
   <p>
-             can have customers quote your site, giving them the ablity to share discounts, events, and news.</p>
+   The website can have customers quote your site, giving them the ablity to share discounts, events, and news.</p>
 </article>  
         
              
         </div>
+        <div class="fb-page" data-href="https://m.facebook.com/DivineMasterCutz/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://m.facebook.com/DivineMasterCutz/" class="fb-xfbml-parse-ignore"><a href="https://m.facebook.com/DivineMasterCutz/">Divine Master Cutz/SALON</a></blockquote></div>
     </div>
 </asp:Content>
