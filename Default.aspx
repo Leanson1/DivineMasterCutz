@@ -1,14 +1,6 @@
 <%@ Page Title="Divine Master Cutz Barber shop and hair Salon" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server"> 
-      <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=404979339883620";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
     <div class="jumbotron">
         <h1>Divine Master Cutz</h1>
         <p class="lead"> Our professional barber and hair stylist will provide the best hair cuts, fades, razor shaves, and design services to our customers. </p>
