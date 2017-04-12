@@ -4,7 +4,10 @@
 
     <div class="jumbotron">
         <h1>Divine Master Cutz</h1>
-        <p class="lead"> Our professional barber and hair stylist will provide the best hair cuts, fades, razor shaves, and design services to our customers. </p>  
+        <p class="lead"> Our professional barber and hair stylist will provide the best hair cuts, fades, razor shaves, and design services to our customers. </p>
+        <p>
+             <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fm.facebook.com%2FDivineMasterCutz%2F&width=100&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId=404979339883620" width="100" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+            </p>
     </div>
     <div class="row">
         <div class="col-md-4">
