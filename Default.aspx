@@ -35,6 +35,7 @@
                 Cutz <br>
                 Color<br>
                 Dreds<br>
+                Braids<br>
                 Up-dos<br>
                 Weaves<br>
                 Relaxers<br>
