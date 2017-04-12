@@ -35,5 +35,10 @@
             <h2>Join us on Social media</h2>
             <div class="fb-page" data-href="https://m.facebook.com/DivineMasterCutz/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://m.facebook.com/DivineMasterCutz/" class="fb-xfbml-parse-ignore"><a href="https://m.facebook.com/DivineMasterCutz/">Divine Master Cutz/SALON</a></blockquote></div>
         </div>
+         <div class="fb-quote">
+        <p>
+            you can have customers quote your site, giving them the ablity to share discounts, events, and news.
+            </p>
+        </div>
     </div>
 </asp:Content>
