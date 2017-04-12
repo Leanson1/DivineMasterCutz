@@ -16,9 +16,10 @@
     <div class="jumbotron">
         <h1>Divine Master Cutz</h1>
         <p class="lead"> Our professional barber and hair stylist will provide the best hair cuts, fades, razor shaves, and design services to our customers. </p>
-        
-             <div class="fb-follow" data-href="https://m.facebook.com/DivineMasterCutz/" data-width="100" data-layout="button" data-size="small" data-show-faces="true"></div>
-            
+        <p>
+          hi
+          </p>
+              
     </div>
     <div class="row">
         <div class="col-md-4">
