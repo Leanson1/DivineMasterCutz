@@ -1,10 +1,10 @@
-﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" %>
+﻿<%@ Page Title="Divine Master Cutz Barber shop and hair Salon" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>ASP.NET</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
+        <h1>Divine Master Cutz</h1>
+        <p class="lead"> Divine Master Cutz- DMC in Oklahoma City, Oklahoma, is a family-friendly barber shop specializing in all types of hair, and we make it our duty to give you a quality haircut. Our team of professionals offers fades, razor shaves, and design services. Our staff loves to meet new people. We send reminders to our customers for scheduled appointments. Providing an enjoyable experience to each every customer is our number one focus.</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
