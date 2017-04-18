@@ -19,7 +19,9 @@
     <div class="fb-like" data-href="https://m.facebook.com/DivineMasterCutz/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
    
     <div class="row">
-        
+         <div class="col-md-6">
+             <img src="frontofstore.jpg" class="img-responsive" alt="Responsive image">
+        </div>
         <div class="col-md-4">
             <h2>Barber shop</h2>
             <p>
