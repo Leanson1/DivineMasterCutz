@@ -24,8 +24,7 @@
         </div>
         <div class="col-md-8">
             <p>
-            hi hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-            </p>
+                   </p>
         </div>
     </div>
      <div class="row">
