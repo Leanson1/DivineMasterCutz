@@ -4934,8 +4934,6 @@ a.list-group-item.active > .badge,
   font-weight: 200;
   line-height: 2.1428571435;
   color: inherit;
-  background-image: url("Childrenhaircut.jpg");
-  
 }
 
 .jumbotron h1 {
@@ -4949,8 +4947,6 @@ a.list-group-item.active > .badge,
 
 .container .jumbotron {
   border-radius: 6px;
-  background-image: url("Childrenhaircut.jpg");
-  background-repeat: no-repeat;
 }
 
 @media screen and (min-width: 768px) {
@@ -4961,6 +4957,8 @@ a.list-group-item.active > .badge,
   .container .jumbotron {
     padding-right: 60px;
     padding-left: 60px;
+    background-image: url("Childrenhaircut.jpg");
+    background-repeat: no-repeat;
   }
   .jumbotron h1 {
     font-size: 63px;
