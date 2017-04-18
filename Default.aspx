@@ -20,7 +20,7 @@
    
     <div class="row">
          <div class="col-md-6">
-             <img src="frontofstore.jpg" class="img-responsive" alt="Responsive image">
+             <img src="frontofstore.jpg" class="img-responsive" alt="Responsive image" width="250" height="250">
         </div>
         <div class="col-md-4">
             <h2>Barber shop</h2>
