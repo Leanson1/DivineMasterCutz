@@ -4935,6 +4935,7 @@ a.list-group-item.active > .badge,
   line-height: 2.1428571435;
   color: inherit;
   background-image: url("Childrenhaircut.jpg");
+  
 }
 
 .jumbotron h1 {
@@ -4948,6 +4949,8 @@ a.list-group-item.active > .badge,
 
 .container .jumbotron {
   border-radius: 6px;
+  background-image: url("Childrenhaircut.jpg");
+  background-repeat: no-repeat;
 }
 
 @media screen and (min-width: 768px) {
