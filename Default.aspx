@@ -26,7 +26,7 @@
                        <div class="well well-lg">
                            <h2>Barber Shop</h2>
                            <p>
-                               Oklahoma city's best barbers will give you the best cut with the skills needed to match your personal style.
+                               Oklahoma city's best barbers will give you the best cut that will match your personal sense of style. That will keep you looking fresh and professional.
                            </p>
                        </div>
                    </div>
