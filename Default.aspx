@@ -38,16 +38,20 @@
             
         </div>
         <div class="col-md-4 col-xs-12 ">
+             <div class="well well-lg">
             <h2>Hair Salon</h2>
             <p>
                 Okc's best hair stylists provides each customer with a vast amount of services and skills. 
             </p>
+            </div>
         </div>
         <div class="col-md-4 col-xs-12">
+             <div class="well well-lg">
             <h2>Kidz Zone</h2>
             <p>
             Every age, boy, and girl are welcome to get their kids haircut from our friendly and energetic staff. 
             </p>
         </div>
+         </div>
     </div>
 </asp:Content>
