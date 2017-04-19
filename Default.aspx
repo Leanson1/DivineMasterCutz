@@ -29,11 +29,13 @@
     </div>
      <div class="row">
         <div class="col-md-4 col-xs-12">
+            <div class="well well-lg">
             <h2>Barber Shop</h2>
-            <p>
-            Oklahoma city's best barbers will give you the best cut with the skills needed to match your personal style.
-                
-            </p>
+                <p>
+                    Oklahoma city's best barbers will give you the best cut with the skills needed to match your personal style.
+                </p>
+            </div>
+            
         </div>
         <div class="col-md-4 col-xs-12 ">
             <h2>Hair Salon</h2>
