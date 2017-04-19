@@ -28,20 +28,20 @@
         </div>
     </div>
      <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-4 col-xs-4">
             <h2>Barber shop</h2>
             <p>
             Oklahoma city's best barbers will give you the best cut with the skills needed to match your personal style.
                 
             </p>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 col-xs-4 ">
             <h2>Hair salon</h2>
             <p>
                 Okc's best hair stylists provides each customer with a vast amount of services and skills. 
             </p>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 col-xs-4">
             <h2>Children friendly</h2>
             <p>
             
