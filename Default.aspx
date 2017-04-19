@@ -21,20 +21,20 @@
     <div class="row">
          <div class="col-md-8">
              <div class="row">
-        <div class="col-md-4 col-xs-12">
+        <div class="col-md-8 col-xs-12">
             <h2>Barber Shop</h2>
             <p>
             Oklahoma city's best barbers will give you the best cut with the skills needed to match your personal style.
                 
             </p>
         </div>
-        <div class="col-md-4 col-xs-12 ">
+        <div class="col-md-8 col-xs-12 ">
             <h2>Hair Salon</h2>
             <p>
                 Okc's best hair stylists provides each customer with a vast amount of services and skills. 
             </p>
         </div>
-        <div class="col-md-4 col-xs-12">
+        <div class="col-md-8 col-xs-12">
             <h2>Kidz Zone</h2>
             <p>
             Every age, boy, and girl are welcome to get their kids haircut from our friendly and energetic staff. 
