@@ -5569,6 +5569,7 @@ a.list-group-item:focus {
 .well-lg {
   padding: 24px;
   border-radius: 6px;
+   background-image: url('../border.jpg');
 }
 
 .well-sm {
