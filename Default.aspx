@@ -12,8 +12,9 @@
 }(document, 'script', 'facebook-jssdk'));</script>
     
     <div class="jumbotron">
-        <h1>Family friendly barber shop and hair salon.</h1>
-        <p class="lead"> We do it all. </p>
+        <%-- <h1>The best Barber shop in okc</h1>
+        <p class="lead"> Our professional barber and hair stylist will provide the best hair cuts, fades, razor shaves, and design services to our customers. </p>
+  --%>
     </div>
      <div class="fb-follow" data-href="https://m.facebook.com/DivineMasterCutz/" data-width="100" data-layout="button" data-size="small" data-show-faces="true"></div>
     <div class="fb-like" data-href="https://m.facebook.com/DivineMasterCutz/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
