@@ -4182,6 +4182,10 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-fixed-top {
+  background-image: url('../barberimages/jumboname.png');
+  background-size: cover;
+  background-position: center center;
+    background-repeat: no-repeat;
   top: 0;
   z-index: 1030;
 }
