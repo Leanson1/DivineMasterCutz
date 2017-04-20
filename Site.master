@@ -60,7 +60,7 @@
                     <asp:LoginView runat="server" ViewStateMode="Disabled">
                         <AnonymousTemplate>
                             <ul class="nav navbar-nav navbar-right">
-                                <li></li>
+                                <li>Please call: 405-973-7298</li>
                                 <li></li>
                             </ul>
                         </AnonymousTemplate>
@@ -79,7 +79,7 @@
                 8205 S Pennsylvania Ave<br />
                 Oklahoma City, Oklahoma <br />
                 <abbr title="Phone">P:</abbr>
-                405.973.7298
+                405-973-7298
                 </address>
             </footer>
         </div>
