@@ -56,15 +56,12 @@
                           <li><a runat="server" href="~/HairSalon">Hair Salon</a></li>
                         <li><a runat="server" href="~/About">About</a></li>
                         <li><a runat="server" href="~/Contact">Contact</a></li>
-                    </ul>
-                   
-                            <ul class="nav navbar-nav navbar-right">
-                              
-                                <li><a href="tel://4059737298" style="color:blue >Book an appointment</a> </li>
-                                <li></li>
-                            </ul>
-                      
-                      
+                   </ul>                                               
+                        <ul class="nav navbar-nav navbar-right">
+
+                        <li>Please call: 405-973-7298</li>
+                        <li></li>
+                        </ul>
                 </div>
             </div>
         </div>
