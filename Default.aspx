@@ -47,7 +47,7 @@
                             <div class="well well-lg">
                            <h2>Kidz Zone</h2>
                            <p>
-                               Every age, boy, and girl are welcome to get their kids haircut from our friendly and energetic staff.
+                               Every age, boy, and girl are welcome. Our friendly and energetic staff will ensure that every childrens haircut is a fun and exciting experience.
                            </p>
                        </div>
                        </div>
