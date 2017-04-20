@@ -7,7 +7,7 @@ body {
 /* Wrapping element */
 /* Set some basic padding to keep content from hitting the edges */
 .body-content {
-    background-color:black;
+    background-color:#222222;
     padding-left: 15px;
     padding-right: 15px;
 }
