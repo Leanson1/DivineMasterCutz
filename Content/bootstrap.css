@@ -4928,13 +4928,15 @@ a.list-group-item.active > .badge,
 }
 
 .jumbotron {
-  padding: 15px;
-  margin-bottom: 30px;
-  font-size: 21px;
-  font-weight: 200;
-  line-height: 2.1428571435;
-  background-color: #ffffff;
-  color: inherit;
+  background-image: url('../barberimages/jumbophoto.jpg');
+    background-repeat: no-repeat;
+    padding: 30px;
+    margin-bottom: 30px;
+    font-size: 21px;
+    font-weight: 200;
+    line-height: 2.1428571435;
+    color: inherit;
+    height: 280px;
 }
 
 .jumbotron h1 {
