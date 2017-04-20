@@ -60,7 +60,7 @@
                    
                             <ul class="nav navbar-nav navbar-right">
                               
-                                <li><a href="tel://4059737298" >Book an appointment</a> </li>
+                                <li><a href="tel://4059737298" style="color:white >Book an appointment</a> </li>
                             </ul>
                         
                 </div>
