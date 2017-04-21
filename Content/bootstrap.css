@@ -4928,10 +4928,10 @@ a.list-group-item.active > .badge,
 }
 
 .jumbotron {
-  background-image: url('../barberimages/Childrenhaircut.jpg');
+  background-image: url('../barberimages/Childrenshaircut.jpg');
   background-size: cover;
   background-position: center center;
-    background-repeat: no-repeat;
+  background-repeat: no-repeat;
     padding: 30px;
     margin-bottom: 30px;
     font-size: 21px;
@@ -4961,8 +4961,8 @@ a.list-group-item.active > .badge,
     padding-bottom: 48px;
   }
   .container .jumbotron {
-    padding-right: 60px;
-    padding-left: 60px;
+    padding-right: 10px;
+    padding-left: 10px;
   }
   .jumbotron h1 {
     font-size: 63px;
