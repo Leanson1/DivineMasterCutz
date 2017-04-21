@@ -17,23 +17,22 @@
                     Bio:Family friendly, energetic, specialized in all types of hair.<br>
                     Skills:Master barber<br>
                     Email:rnealy05@yahoo.com<br>
-                    Facebook:www.facebook.com/DivineMasterCutz<br>
-                    Twitter:https://twitter.com/DivineCutz<br>
+                    Facebook:<a href="www.facebook.com/DivineMasterCutz">DivineMastercutz</a> <br>
+                    Twitter:<a href="https://twitter.com/DivineCutz">DivineMastercutz</a><br>
                 </p>
                  <p>
                      Name:Charley Beachler<br>
                      Title:head administrator- baber/stylist<br>
                      Bio:Military family, 2 children, and from North Carolina<br>
                      Skills:color, fades<br>
-                     Email:rnealy05@yahoo.com<br>
-                     Facebook:https://www.facebook.com/charley.beachler<br>
+                     Facebook:<a href="https://www.facebook.com/charley.beachler">Charley</a><br>
                 </p>
                  <p>
                      Name:JBlack<br>
                      Title:Barber<br>
                      Bio:Fun loving energetic, talkative, insightful, and family oriented.<br>
                      Skills:Designer<br>
-                     Facebook:https://www.facebook.com/john.ballard.313<br>
+                     Facebook:<a href="https://www.facebook.com/john.ballard.313">Jblack</a><br>
                      Instagram:Blackitz2ez<br>
                 </p>
                  <p>
@@ -41,8 +40,8 @@
                      Title:Barber<br>
                      Bio:Faimly Friendly, has Children, Hardworker, loves cars.<br>
                      Skills:comb/shear<br>
-                     Facebook:https://www.facebook.com/john.ballard.313<br>
-                     Twitter:https://twitter.com/WATAMASSAGE
+                     Facebook:<br>
+                     Twitter:<a href="https://twitter.com/WATAMASSAGE">Melvin</a><br>
                 </p>
                  <p>
                      Name:Dewayne<br>                
@@ -57,8 +56,7 @@
                      Title:Barber<br>
                      Bio:Fun loving barber, music, sports, fashion forward<br>
                      Skills:Taper fade/ Bold fade<br>
-                     Facebook:https://www.facebook.com/kris4rmthecliff<br>
-                     Twitter:
+                     Facebook:<a href="https://www.facebook.com/kris4rmthecliff">BigKris</a><br>
                      Instagram:OGBarberSause_405<br>
                 </p>
                  <p>
@@ -66,15 +64,15 @@
                      Title:Barber<br>
                      Bio:So very cool and very social<br>
                      Skills:Taper Beard<br>
-                     Twitter:https://twitter.com/DeVoNextdoor<br>
+                     Twitter:<a href="https://twitter.com/DeVoNextdoor">Dervon</a><br>
                 </p>
                  <p>
                      Name:Maurice aka Reeses<br>
                      Title:Barber<br>
                      Bio:Smart, Stylish, loves life<br>
                      Skills:<br>
-                     Facebook:https://www.facebook.com/reesekupz<br>
-                     Twitter:https://twitter.com/DeVoNextdoor<br>
+                     Facebook:<a href="https://www.facebook.com/reesekupz">Reeses</a><br>
+                     Twitter:<a href="https://twitter.com/DeVoNextdoor">Reeses</a><br>
                 </p>
             </div>
             <div class="col-md-6 col-sm-6">
@@ -84,14 +82,14 @@
                      Title:Stylist<br>
                      Bio:Friendly, family oriented, customer service driven, and easy going.<br>
                      Skills:Braider-Goddess, french, under, feed in, kinky, and block braids<br>
-                     Facebook:https://www.facebook.com/letsgetbraided/<br>
+                     Facebook:<a href="https://www.facebook.com/letsgetbraided/">Crystal</a><br>
                 </p>
                   <p>
                       Name:Brittney<br>
                       Title:Stylist<br>
                       Bio:Creative, profectionist, and professional<br>
                       Skills:Short cutz, Healthy hair, and weaves<br>
-                      Facebook:https://www.facebook.com/brittney.shorter.1<br>
+                      Facebook:<a href="https://www.facebook.com/brittney.shorter.1">Brittney</a><br>
                       Instagram:mizzzhadette09<br>
                 </p>
             </div>
