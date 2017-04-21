@@ -10,7 +10,7 @@
         <div class="row">
             <div class="col-md-6 col-sm-6">
                 <h3>Master Barbers</h3>
-                <h4>Name:Roger B. Nealy</h4>
+                
                 <p>
                     Name:Roger B. Nealy<br>
                     Title:Owner<br>
@@ -21,7 +21,7 @@
                     Facebook:<a href="www.facebook.com/DivineMasterCutz">DivineMastercutz</a> <br>
                     Twitter:<a href="https://twitter.com/DivineCutz">DivineMastercutz</a><br>
                 </p>
-                <h5>Name:Charley Beachler</h5>
+               
                  <p>
                      Name:Charley Beachler<br>
                      Title:head administrator- baber/stylist<br>
