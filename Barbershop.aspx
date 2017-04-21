@@ -13,50 +13,26 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
     
-
-    <div class="row">
+    <div class="container">
+        <div class="row">
        
-        <div class="col-md-4">
-           
-            <div class="panel panel-primary">
-  <div class="panel-heading">
-    <h3 class="panel-title">Fades</h3>
-  </div>
-  <div class="panel-body">
-      <img src="barberimages/taper2.jpg" />
-      <p>
-          Our professionals will trim your beard and get you that specific look you are looking for.
-      </p>
-  </div>
-</div>
+            <div class="col-md-6 col-xs-6">
+            <ul class="list-group">
+  <li class="list-group-item">Cutz</li>
+  <li class="list-group-item">Fades</li>
+  <li class="list-group-item">Taper fades</li>
+  <li class="list-group-item">Shaves</li>
+  <li class="list-group-item">Designs</li>
+  <li class="list-group-item">Razor edge-ups</li>
+</ul>
+            </div>
+            <div class="col-md-6 col-xs-6">
             
+            </div>
         </div>
-        <div class="col-md-4">
-            <div class="panel panel-primary">
-  <div class="panel-heading">
-    <h3 class="panel-title">Taper fades</h3>
-  </div>
-  <div class="panel-body">
-      <img src="barberimages/taper.jpg" />
-      <p>
-          Our professionals will trim your beard and get you that specific look you are looking for.
-      </p>
-  </div>
-</div>
-        </div>
-        <div class="col-md-4">
-            <div class="panel panel-primary">
-  <div class="panel-heading">
-    <h3 class="panel-title">Beards</h3>
-  </div>
-  <div class="panel-body">
-      <img src="barberimages/beard.jpg" />
-      <p>
-          Our professionals will trim your beard and get you that specific look you are looking for.
-      </p>
-  </div>
-</div>
-        </div>
-        </div>
+    </div>
+    
+           
+   
        
 </asp:Content>
