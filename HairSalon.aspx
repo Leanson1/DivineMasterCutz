@@ -2,11 +2,24 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>About us</h3>
+    <h3>Hair Salon</h3>
  
-    <p>Divine Master Cutz- DMC in Oklahoma City, Oklahoma, is a family-friendly barber shop specializing in all types of hair, and we make it our duty to give you a quality haircut. Our team of professionals offers fades, razor shaves, and design services. Our staff loves to meet new people. We send reminders to our customers for scheduled appointments. Providing an enjoyable experience to each every customer is our number one focus. </p>
- 
-    <p>
-        
-    </p>
- </asp:Content>
+   <div class="container">
+       <div class="row">
+           <div class="col-md-6 col-xs-6">
+               <ul class="list-group">
+                   <li class="list-group-item">Cutz</li>
+                   <li class="list-group-item">Color</li>
+                   <li class="list-group-item">Dreds</li>
+                   <li class="list-group-item">Braids</li>
+                   <li class="list-group-item">Up-dos</li>
+                   <li class="list-group-item">Weaves</li>
+                   <li class="list-group-item">Releaxers</li>
+                   <li class="list-group-item">Extensions</li>
+               </ul>
+           </div>
+           <div class="col-md-6 col-xs-6">
+           </div>
+       </div>
+    </div>
+</asp:Content>
