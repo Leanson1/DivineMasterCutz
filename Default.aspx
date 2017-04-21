@@ -10,7 +10,9 @@
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=404979339883620";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-    
+    <div class="jumbotron">
+        
+    </div>
     
      <div class="fb-follow" data-href="https://m.facebook.com/DivineMasterCutz/" data-width="100" data-layout="button" data-size="small" data-show-faces="true"></div>
     <div class="fb-like" data-href="https://m.facebook.com/DivineMasterCutz/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
