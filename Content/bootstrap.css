@@ -315,7 +315,7 @@ body {
   font-size: 14px;
   line-height: 1.428571429;
   color: #333333;
-  background-color: #ffffff;
+  background-color:black;
 }
 
 input,
@@ -5570,6 +5570,7 @@ a.list-group-item:focus {
 
 .well-lg {
   padding: 24px;
+  background-color:white:
   border-radius: 6px;
    background-image: url('../border.jpg');
 }
