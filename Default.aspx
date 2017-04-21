@@ -22,22 +22,18 @@
            <div class="col-md-8">
                <div class="row">
                    <div class="col-md-12">
-                       <div class="well well-lg">
                            <h2>Barber Shop</h2>
                            <p>
                                Oklahoma city's best barbers will give you the best cut that will match your personal sense of style. That will keep you looking fresh and professional.
                            </p>
-                       </div>
                    </div>
                </div>
                <div class="row">
                    <div class="col-md-12">
-                        <div class="well well-lg">
                        <h2>Hair Salon</h2>
                        <p>
                            Okc's best hair stylists provides each customer with a vast amount of services and skills.
                        </p>
-                       </div>
                    </div>
                </div>
                    <div class="row">
@@ -53,11 +49,9 @@
            </div>
            <div class="col-md-4">
                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21591.789453089964!2d-97.55284902998618!3d35.392526454273565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87b213a2c574ae83%3A0x31469629ce1a389d!2sDivine+Master+Cutz!5e0!3m2!1sen!2sus!4v1492612132267" width="350" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-               <div class="well well-lg">
                <h3>
                    Events
                </h3>
-               </div>
            </div>
 
        </div>
