@@ -5571,6 +5571,7 @@ a.list-group-item:focus {
 .well-lg {
   padding: 24px;
   background-color:#ffffff;
+  border-color: #800000;
   border-radius: 6px;
    background-image: url('../border.jpg');
 }
