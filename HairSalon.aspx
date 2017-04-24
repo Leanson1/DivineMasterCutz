@@ -6,19 +6,31 @@
  
    <div class="container">
        <div class="row">
-           <div class="col-md-6 col-xs-6">
-               <ul class="list-group">
-                   <li class="list-group-item">Cutz</li>
-                   <li class="list-group-item">Color</li>
-                   <li class="list-group-item">Dreds</li>
-                   <li class="list-group-item">Braids</li>
-                   <li class="list-group-item">Up-dos</li>
-                   <li class="list-group-item">Weaves</li>
-                   <li class="list-group-item">Releaxers</li>
-                   <li class="list-group-item">Extensions</li>
-               </ul>
+                <div class="col-md-3 col-xs-6">
+           
            </div>
-           <div class="col-md-6 col-xs-6">
+                <div class="col-md-3 col-xs-6">
+           
+           </div>
+                <div class="col-md-3 col-xs-6">
+           
+           </div>
+                <div class="col-md-3 col-xs-6">
+           
+           </div>
+           <div class="row">
+               <div class="col-md-3 col-xs-6">
+               
+               </div>
+               <div class="col-md-3 col-xs-6">
+               
+               </div>
+               <div class="col-md-3 col-xs-6">
+               
+               </div>
+               <div class="col-md-3 col-xs-6">
+               
+               </div>
            </div>
        </div>
     </div>
