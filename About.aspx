@@ -65,7 +65,7 @@
                     Name:Dervon<br>
                      Title:Barber<br>
                      Bio:So very cool and very social<br>
-                     Skills:Taper Beard<br>
+                     Skills:Taper fades, Beard<br>
                      Twitter:<a href="https://twitter.com/DeVoNextdoor">Dervon</a><br>
                      
                 </p>  
