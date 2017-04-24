@@ -24,6 +24,7 @@
             <div class="col-md-4 col-xs-4">
                  <div well well-lg>
                      <img src="barberimages/taperfade.jpg" alt="Taper Fades" style="width:200px;height:300px;">
+                     <h5>Taper fades</h5>
                 </div>
             </div>
             <div class="col-md-4 col-xs-4">
@@ -40,7 +41,7 @@
             </div>
              <div class="col-md-4 col-xs-4">
              <div well well-lg>
-                 <img src="barberimages/beards.jpg" alt="Beards/shaves" style="width:200px;height:300px;">
+                 <img src="barberimages/beard.jpg" alt="Beards/shaves" style="width:200px;height:300px;">
                  </div>
             </div>
              <div class="col-md-4 col-xs-4">
