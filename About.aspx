@@ -32,6 +32,15 @@
                      Facebook:<a href="https://www.facebook.com/charley.beachler">Charley</a><br>
 
                 </p>
+                <p>
+                    <img src="barberimages/Jblack.jpg" alt="Roger Nealy" class="img-circle" style="width:100px;height:200px;">
+                    Name:JBlack<br>
+                    Title:Barber<br>
+                    Bio:Fun loving energetic, talkative, insightful, and family oriented.<br>
+                    Skills:Designer<br>
+                    Facebook:<a href="https://www.facebook.com/john.ballard.313">Jblack</a><br>
+                    Instagram:Blackitz2ez<br>
+                </p>
                  <p>
                       <img src="barberimages/Dewayne.jpg" alt="Roger Nealy" class="img-circle" style="width:100px;height:200px;">
                      Name:Dewayne<br>                
@@ -59,16 +68,7 @@
                      Skills:Taper Beard<br>
                      Twitter:<a href="https://twitter.com/DeVoNextdoor">Dervon</a><br>
                      
-                </p>
-                 <p>
-                      <img src="barberimages/Jblack.jpg" alt="Roger Nealy" class="img-circle" style="width:100px;height:200px;">
-                     Name:JBlack<br>
-                     Title:Barber<br>
-                     Bio:Fun loving energetic, talkative, insightful, and family oriented.<br>
-                     Skills:Designer<br>
-                     Facebook:<a href="https://www.facebook.com/john.ballard.313">Jblack</a><br>
-                     Instagram:Blackitz2ez<br>
-                </p>
+                </p>  
                  <p>
                       <img src="barberimages/Melvin.jpg" alt="Roger Nealy" class="img-circle" style="width:100px;height:200px;">
                      Name:Melvin aka... Mellemel<br>
@@ -79,6 +79,7 @@
                      Twitter:<a href="https://twitter.com/DeVoNextdoor">Dervon</a><br>
                 </p>
                  <p>
+                     <img src="barberimages/maurice.jpg" alt="Roger Nealy" class="img-circle" style="width:100px;height:200px;">
                      Name:Maurice aka Reeses<br>
                      Title:Barber<br>
                      Bio:Smart, Stylish, loves life<br>
@@ -90,6 +91,7 @@
             <div class="col-md-6 col-sm-6">
                 <h3>Professional Stylist</h3>
                  <p>
+                      <img src="barberimages/crystal.jpg" alt="Roger Nealy" class="img-circle" style="width:100px;height:200px;">
                      Name:Crystal<br>
                      Title:Stylist<br>
                      Bio:Friendly, family oriented, customer service driven, and easy going.<br>
@@ -97,6 +99,7 @@
                      Facebook:<a href="https://www.facebook.com/letsgetbraided/">Crystal</a><br>
                 </p>
                   <p>
+                       <img src="barberimages/Britteny.jpg" alt="Roger Nealy" class="img-circle" style="width:100px;height:200px;">
                       Name:Brittney<br>
                       Title:Stylist<br>
                       Bio:Creative, profectionist, and professional<br>
