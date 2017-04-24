@@ -13,32 +13,32 @@
                     </div>
                 </div>
                 <div class="col-md-3 col-xs-6">
-                    <img src="Weaves" alt="Taper Fades" style="width:200px;height:300px;">
-                    <h5>...</h5>
+                    <img src="barberimages/weaves.jpg" alt="Taper Fades" style="width:200px;height:300px;">
+                    <h5>Weaves</h5>
                 </div>
                 <div class="col-md-3 col-xs-6">
-                    <img src="Braids" alt="Taper Fades" style="width:200px;height:300px;">
-                    <h5>...</h5>
+                    <img src="barberimages/Braids2.jpg" alt="Taper Fades" style="width:200px;height:300px;">
+                    <h5>Braids</h5>
                 </div>
                 <div class="col-md-3 col-xs-6">
                     <img src="Dreads" alt="Taper Fades" style="width:200px;height:300px;">
-                    <h5>...</h5>
+                    <h5>Dreads</h5>
                 </div>
            <div class="row">
                <div class="col-md-3 col-xs-6">
-                   <img src="Extensions" alt="Taper Fades" style="width:200px;height:300px;">
+                   <img src="barberimages/extensions.jpg" alt="Taper Fades" style="width:200px;height:300px;">
+                   <h5>Extensions</h5>
+               </div>
+               <div class="col-md-3 col-xs-6">
+                   <img src="barberimgaes/permrelaxers.jpg" alt="Taper Fades" style="width:200px;height:300px;">
                    <h5>...</h5>
                </div>
                <div class="col-md-3 col-xs-6">
-                   <img src="Relaxers" alt="Taper Fades" style="width:200px;height:300px;">
+                   <img src="barberimgaes/updos.jpg" alt="Taper Fades" style="width:200px;height:300px;">
                    <h5>...</h5>
                </div>
                <div class="col-md-3 col-xs-6">
-                   <img src="Up-dos" alt="Taper Fades" style="width:200px;height:300px;">
-                   <h5>...</h5>
-               </div>
-               <div class="col-md-3 col-xs-6">
-                   <img src="Short hair" alt="Taper Fades" style="width:200px;height:300px;">
+                   <img src="barberimages/shorthair.jpg" alt="Taper Fades" style="width:200px;height:300px;">
                    <h5>...</h5>
                </div>
            </div>
