@@ -7,29 +7,39 @@
    <div class="container">
        <div class="row">
                 <div class="col-md-3 col-xs-6">
-           
-           </div>
+            <div well well-lg>
+                    <img src="..." alt="Taper Fades" style="width:200px;height:300px;">
+                    <h5>...</h5>
+                    </div>
+                </div>
                 <div class="col-md-3 col-xs-6">
-           
-           </div>
+                    <img src="..." alt="Taper Fades" style="width:200px;height:300px;">
+                    <h5>...</h5>
+                </div>
                 <div class="col-md-3 col-xs-6">
-           
-           </div>
+                    <img src="..." alt="Taper Fades" style="width:200px;height:300px;">
+                    <h5>...</h5>
+                </div>
                 <div class="col-md-3 col-xs-6">
-           
-           </div>
+                    <img src="..." alt="Taper Fades" style="width:200px;height:300px;">
+                    <h5>...</h5>
+                </div>
            <div class="row">
                <div class="col-md-3 col-xs-6">
-               
+                   <img src="..." alt="Taper Fades" style="width:200px;height:300px;">
+                   <h5>...</h5>
                </div>
                <div class="col-md-3 col-xs-6">
-               
+                   <img src="..." alt="Taper Fades" style="width:200px;height:300px;">
+                   <h5>...</h5>
                </div>
                <div class="col-md-3 col-xs-6">
-               
+                   <img src="..." alt="Taper Fades" style="width:200px;height:300px;">
+                   <h5>...</h5>
                </div>
                <div class="col-md-3 col-xs-6">
-               
+                   <img src="..." alt="Taper Fades" style="width:200px;height:300px;">
+                   <h5>...</h5>
                </div>
            </div>
        </div>
