@@ -12,6 +12,7 @@
                 <h3>Master Barbers</h3>
                 
                 <p>
+                    <img src="barberimages/Roger.jpg" alt="Roger Nealy" class="img-circle">
                     Name:Roger B. Nealy<br>
                     Title:Owner<br>
                     Phone:405-973-7298<br>
