@@ -19,19 +19,19 @@
             <div class="col-md-4 col-xs-12">
                   <div well well-lg>
                          <img src="barberimages/fade.jpg" alt="Classic Fades" style="width:300px;height:350px;">
-                       <h5>Classic Fades</h5>
+                       <h4 align="center">Classic Fades</h4>
                   </div>
             </div>
             <div class="col-md-4 col-xs-12">
                  <div well well-lg>
                      <img src="barberimages/taperfade.jpg" alt="Taper Fades" style="width:300px;height:350px;">
-                     <h5>Taper Fades</h5>
+                     <h4 align="center">Taper Fades</h4>
                 </div>
             </div>
             <div class="col-md-4 col-xs-12">
                  <div well well-lg>
                      <img src="barberimages/cutz.jpg" alt="Cutz" style="width:300px;height:350px;">
-                      <h5>Cutz</h5>
+                      <h4 align="center">Cutz</h4>
                 </div>
             </div>
         </div>
@@ -39,19 +39,19 @@
             <div class="col-md-4 col-xs-12">
              <div well well-lg>
                  <img src="barberimages/razoredups.jpg" alt="Razor-edge-ups" style="width:300px;height:350px;">
-                  <h5>Razor-Edge-ups</h5>
+                  <h4 align="center">Razor-Edge-ups</h4>
                 </div>
             </div>
              <div class="col-md-4 col-xs-12">
              <div well well-lg>
                  <img src="barberimages/beard.jpg" alt="Beards/shaves" style="width:300px;height:350px;">
-                  <h5>Beards/Shaves</h5>
+                  <h4 align="center">Beards/Shaves</h4>
                  </div>
             </div>
              <div class="col-md-4 col-xs-12">
              <div well well-lg>
                  <img src="barberimages/Designs.jpg" alt="Designs" style="width:300px;height:350px;">
-                  <h5>Designs</h5>
+                  <h4 align="center">Designs</h4>
                  </div>
             </div>
         </div>    
