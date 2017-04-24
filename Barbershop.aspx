@@ -16,7 +16,7 @@
     <div class="container">
         <div class="row">
        
-            <div class="col-md-6 col-xs-6">
+            <div class="col-md-4 col-xs-6">
             <ul class="list-group">
   <li class="list-group-item">Cutz</li>
   <li class="list-group-item">Fades</li>
@@ -26,7 +26,7 @@
   <li class="list-group-item">Razor edge-ups</li>
 </ul>
             </div>
-            <div class="col-md-6 col-xs-6">
+            <div class="col-md-8 col-xs-6">
                 <div well well-lg>
                     <img src="barberimages/fade.jpg" alt="Classic Fades" style="width:200px;height:300px;">
                 </div>
