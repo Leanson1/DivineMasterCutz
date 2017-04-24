@@ -16,35 +16,35 @@
     <div class="container">
         <div class="row">
        
-            <div class="col-md-4 col-xs-4">
+            <div class="col-md-4 col-xs-12">
                   <div well well-lg>
                          <img src="barberimages/fade.jpg" alt="Classic Fades" style="width:200px;height:300px;">
                   </div>
             </div>
-            <div class="col-md-4 col-xs-4">
+            <div class="col-md-4 col-xs-12">
                  <div well well-lg>
                      <img src="barberimages/taperfade.jpg" alt="Taper Fades" style="width:200px;height:300px;">
                      <h5>Taper fades</h5>
                 </div>
             </div>
-            <div class="col-md-4 col-xs-4">
+            <div class="col-md-4 col-xs-12">
                  <div well well-lg>
                      <img src="barberimages/cutz.jpg" alt="Cutz" style="width:200px;height:300px;">
                 </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-md-4 col-xs-4">
+            <div class="col-md-4 col-xs-12">
              <div well well-lg>
                  <img src="barberimages/razoredups.jpg" alt="Razor-edge-ups" style="width:200px;height:300px;">
                 </div>
             </div>
-             <div class="col-md-4 col-xs-4">
+             <div class="col-md-4 col-xs-12">
              <div well well-lg>
                  <img src="barberimages/beard.jpg" alt="Beards/shaves" style="width:200px;height:300px;">
                  </div>
             </div>
-             <div class="col-md-4 col-xs-4">
+             <div class="col-md-4 col-xs-12">
              <div well well-lg>
                  <img src="barberimages/Designs.jpg" alt="Designs" style="width:200px;height:300px;">
                  </div>
