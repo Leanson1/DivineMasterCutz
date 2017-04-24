@@ -16,23 +16,42 @@
     <div class="container">
         <div class="row">
        
-            <div class="col-md-4 col-xs-6">
-            <ul class="list-group">
-  <li class="list-group-item">Cutz</li>
-  <li class="list-group-item">Fades</li>
-  <li class="list-group-item">Taper fades</li>
-  <li class="list-group-item">Shaves</li>
-  <li class="list-group-item">Designs</li>
-  <li class="list-group-item">Razor edge-ups</li>
-</ul>
+            <div class="col-md-4 col-xs-4">
+                  <div well well-lg>
+                         <img src="barberimages/fade.jpg" alt="Classic Fades" style="width:200px;height:300px;">
+                  </div>
             </div>
-            <div class="col-md-8 col-xs-6">
-                <div well well-lg>
-                    <img src="barberimages/fade.jpg" alt="Classic Fades" style="width:200px;height:300px;">
+            <div class="col-md-4 col-xs-4">
+                 <div well well-lg>
+                     <img src="barberimages/taperfade.jpg" alt="Taper Fades" style="width:200px;height:300px;">
+                </div>
+            </div>
+            <div class="col-md-4 col-xs-4">
+                 <div well well-lg>
+                     <img src="barberimages/cutz.jpg" alt="Cutz" style="width:200px;height:300px;">
                 </div>
             </div>
         </div>
-    </div>
+        <div class="row">
+            <div class="col-md-4 col-xs-4">
+             <div well well-lg>
+                 <img src="barberimages/razoredups.jpg" alt="Razor-edge-ups" style="width:200px;height:300px;">
+                </div>
+            </div>
+             <div class="col-md-4 col-xs-4">
+             <div well well-lg>
+                 <img src="barberimages/beards.jpg" alt="Beards/shaves" style="width:200px;height:300px;">
+                 </div>
+            </div>
+             <div class="col-md-4 col-xs-4">
+             <div well well-lg>
+                 <img src="barberimages/Designs.jpg" alt="Designs" style="width:200px;height:300px;">
+                 </div>
+            </div>
+        </div>    
+            
+        </div>
+    
     
            
    
