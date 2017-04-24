@@ -12,7 +12,7 @@
                 <h3>Master Barbers</h3>
                 
                 <p>
-                    <img src="barberimages/Roger.jpg" alt="Roger Nealy" class="img-circle">
+                    <img src="barberimages/Roger.jpg" alt="Roger Nealy" class="img-circle" style="width:100px;height:200px;">
                     Name:Roger B. Nealy<br>
                     Title:Owner<br>
                     Phone:405-973-7298<br>
@@ -24,37 +24,25 @@
                 </p>
                
                  <p>
-                     Name:Charley Beachler<br>
+                      <img src="barberimages/charley.jpg" alt="Roger Nealy" class="img-circle" style="width:100px;height:200px;">
+                      Name:Charley Beachler<br>
                      Title:head administrator- baber/stylist<br>
                      Bio:Military family, 2 children, and from North Carolina<br>
                      Skills:color, fades<br>
                      Facebook:<a href="https://www.facebook.com/charley.beachler">Charley</a><br>
+
                 </p>
                  <p>
-                     Name:JBlack<br>
-                     Title:Barber<br>
-                     Bio:Fun loving energetic, talkative, insightful, and family oriented.<br>
-                     Skills:Designer<br>
-                     Facebook:<a href="https://www.facebook.com/john.ballard.313">Jblack</a><br>
-                     Instagram:Blackitz2ez<br>
-                </p>
-                 <p>
-                     Name:Melvin aka... Mellemel<br>
-                     Title:Barber<br>
-                     Bio:Faimly Friendly, has Children, Hardworker, loves cars.<br>
-                     Skills:comb/shear<br>
-                     Facebook:<br>
-                     Twitter:<a href="https://twitter.com/WATAMASSAGE">Melvin</a><br>
-                </p>
-                 <p>
+                      <img src="barberimages/Dewayne.jpg" alt="Roger Nealy" class="img-circle" style="width:100px;height:200px;">
                      Name:Dewayne<br>                
                      Title:Barber/stylist<br>
                      Bio:Family oriented, kid friendly, perfectionlist<br>           
                      Skills:Expert fade specialist<br>
-                     Facebook:Dewayne alexander-need facebook link<br>
-                     Twitter:               
+                     Facebook:<a herf="https://www.facebook.com/dwayne.alexander.3363">Dweayne</a><br>
+                     Snap Chat: Dewayne Alexander               
                 </p>
                  <p>
+                      <img src="barberimages/bigkris.jpg" alt="Roger Nealy" class="img-circle" style="width:100px;height:200px;">
                      Name:BigKristheBarber<br>
                      Title:Barber<br>
                      Bio:Fun loving barber, music, sports, fashion forward<br>
@@ -63,7 +51,28 @@
                      Instagram:OGBarberSause_405<br>
                 </p>
                  <p>
+                      <img src="barberimages/dervon.jpg" alt="Roger Nealy" class="img-circle" style="width:100px;height:200px;">
                      Name:Dervon<br>
+                    Name:Dervon<br>
+                     Title:Barber<br>
+                     Bio:So very cool and very social<br>
+                     Skills:Taper Beard<br>
+                     Twitter:<a href="https://twitter.com/DeVoNextdoor">Dervon</a><br>
+                     
+                </p>
+                 <p>
+                      <img src="barberimages/Jblack.jpg" alt="Roger Nealy" class="img-circle" style="width:100px;height:200px;">
+                     Name:JBlack<br>
+                     Title:Barber<br>
+                     Bio:Fun loving energetic, talkative, insightful, and family oriented.<br>
+                     Skills:Designer<br>
+                     Facebook:<a href="https://www.facebook.com/john.ballard.313">Jblack</a><br>
+                     Instagram:Blackitz2ez<br>
+                </p>
+                 <p>
+                      <img src="barberimages/Melvin.jpg" alt="Roger Nealy" class="img-circle" style="width:100px;height:200px;">
+                     Name:Melvin aka... Mellemel<br>
+                     Title:Barber<br>
                      Title:Barber<br>
                      Bio:So very cool and very social<br>
                      Skills:Taper Beard<br>
