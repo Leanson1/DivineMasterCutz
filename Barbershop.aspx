@@ -27,7 +27,9 @@
 </ul>
             </div>
             <div class="col-md-6 col-xs-6">
-            
+                <div well well-lg>
+                    <img src="barberimages/fade.jpg" alt="Classic Fades" style="width:200px;height:300px;">
+                </div>
             </div>
         </div>
     </div>
