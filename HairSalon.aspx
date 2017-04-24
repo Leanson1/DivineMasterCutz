@@ -30,11 +30,11 @@
                    <h4 align="center">Extensions</h4>
                </div>
                <div class="col-md-3 col-xs-12">
-                   <img src="barberimgaes/permsrelaxers.jpg" alt="Perms relaxers" align="center" style="width:250px;height:350px;">
+                   <img src="barberimages/permsrelaxers.jpg" alt="Perms relaxers" align="center" style="width:250px;height:350px;">
                    <h4 align="center">Relaxers</h4>
                </div>
                <div class="col-md-3 col-xs-12">
-                   <img src="barberimgaes/updos.jpg " alt="Up dos" align="center" style="width:250px;height:350px;">
+                   <img src="barberimages/updos.jpg " alt="Up dos" align="center" style="width:250px;height:350px;">
                    <h4 align="center">Up-dos</h4>
                </div>
                <div class="col-md-3 col-xs-12">
