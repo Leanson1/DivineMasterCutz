@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>Hair Salon</h3>
+    <h3>Our services</h3>
  
    <div class="container">
        <div class="row">
