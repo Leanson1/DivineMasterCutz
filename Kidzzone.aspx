@@ -56,33 +56,27 @@
 </div>
                
                 </div>
-              <div class="kidzzone">
-            <div class="col-md-6 col-xs-6">
-                <div class="row">
-                    <div class="col-md-12">
-                    <h3 style="color:blue;">Our friendly barbers will make every haircut fun and exciting</h3>
-                    </div>
-                    
-                </div>
-                 <div class="row">
-                      <div class="col-md-12">
-                    <h3 style="color:green;">Any style, cut, and design. We got it for you.</h3>
+   <div class="row">
+      <div class="col-md-6 col-xs-6">
+            <div class="col-md-12">
+               <h3 style="color:blue;">Our friendly barbers will make every haircut fun and exciting</h3>
+            </div>
+            <div class="col-md-12">
+               <h3 style="color:green;">Any style, cut, and design. We got it for you.</h3>
                           <p>&nbsp;</p>
                           <p>&nbsp;</p>
-                            </div>
-                </div>
-                 <div class="row">
-                      <div class="col-md-12">
-                    <h3 style="color:red;">They wont want to wait for their next cut.</h3>
-                          <img src="barberimages/lion.png" alt="lion" style="width:100px;height:100px;float:left;">
-                            </div>
+            </div>
+            <div class="col-md-12">
+               <h3 style="color:red;">They wont want to wait for their next cut.</h3>
+               <img src="barberimages/lion.png" alt="lion" style="width:100px;height:100px;float:left;">
+            </div>
                     
-                    </div>
-               <div class="col-md-2 col-xs 2"></div>
+                    
+             <div class="col-md-2 col-xs 2">
                <img src="barberimages/gir.png" alt="Giraffe" style="width:100px;height:400px;float:right;">
             </div>
-            </div>
+           </div>
         </div>
     </div>
-    
+    </div>
  </asp:Content>
