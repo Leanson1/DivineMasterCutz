@@ -12,7 +12,7 @@
     </address>
 
     <address>
-        <strong>Support:</strong>   <a href="mailto:Support@DivineMasterCutz.com">Support@DivineMasterCutz.com</a><br />
+        <strong>Support:</strong>   <a href="mailto:rnealy05@yahoo.com">Questions?</a><br />
         
     </address>
 </asp:Content>
