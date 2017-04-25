@@ -3,11 +3,6 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
     <h3>The perfect place for your child&#39;s haircut</h3>
- 
-    <p>&nbsp;</p>
- 
-    <h4>The fun is here</h4>
-
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-xs-12">
