@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
    
     <h2 style="color:green;"><%: Title %>.</h2>
-    <h3 style="color:blue;">The perfect place for your child's haircut</h3>
+    <h3 style="color:orange;">The perfect place for your child's haircut</h3>
     <div class="container">
         <div class="row">
             <div class="col-md-4 col-xs-12">
