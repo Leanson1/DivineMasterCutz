@@ -2,11 +2,11 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
    
-    <h2><%: Title %>.</h2>
-    <h3>The perfect place for your child&#39;s haircut</h3>
+    <h2 style="color:green;"><%: Title %>.</h2>
+    <h3 style="color:yellow;">The perfect place for your child's haircut</h3>
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-xs-12">
+            <div class="col-md-4 col-xs-12">
             <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
@@ -78,10 +78,10 @@
                
                 </div>
               <div class="kidzzone">
-            <div class="col-md-6 col-xs-6">
+            <div class="col-md-8 col-xs-6">
                 <div class="row">
                     <div class="col-md-12">
-                    <h3>Our friendly barbers will make every haircut fun and exciting</h3>
+                    <h3 style="color:blue;">Our friendly barbers will make every haircut fun and exciting</h3>
                          <p>&nbsp;</p>
                           <p>&nbsp;</p>
                     </div>
@@ -89,14 +89,14 @@
                 </div>
                  <div class="row">
                       <div class="col-md-12">
-                    <h3>Any style, cut, and design. We got it for you.</h3>
+                    <h3 style="color:green;">Any style, cut, and design. We got it for you.</h3>
                           <p>&nbsp;</p>
                           <p>&nbsp;</p>
                             </div>
                 </div>
                  <div class="row">
                       <div class="col-md-12">
-                    <h3>They wont want to wait for their next cut.</h3>
+                    <h3 style="color:red;">They wont want to wait for their next cut.</h3>
                           <p>&nbsp;</p>
                           <p>&nbsp;</p>
                             </div>
