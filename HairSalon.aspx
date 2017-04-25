@@ -8,7 +8,7 @@
        <div class="row">
                 <div class="col-md-3 col-xs-12">
             <div well well-lg>
-                    <img src="..." alt="Taper Fades" align="center" style="width:250px;height:350px;">
+                    <img src="barberimages/color.jpg" alt="color" align="center" style="width:250px;height:350px;">
                     <h4 align="center">Color</h4>
                     </div>
                 </div>
