@@ -61,7 +61,7 @@
                 <div class="row">
                     <div class="col-md-12">
                     <h3 style="color:blue;">Our friendly barbers will make every haircut fun and exciting</h3>
-                          <img src="barberimages/gir.png" alt="lion" style="width:100px;height:100px;">
+                          <img src="barberimages/gir.png" alt="lion" style="float:left" style="width:100px;height:100px;">
                     </div>
                     
                 </div>
@@ -75,7 +75,7 @@
                  <div class="row">
                       <div class="col-md-12">
                     <h3 style="color:red;">They wont want to wait for their next cut.</h3>
-                          <img src="barberimages/lion.png" alt="lion" style="width:100px;height:100px;">
+                          <img src="barberimages/lion.png" alt="lion" style="float:right" style="width:100px;height:100px;">
                             </div>
                 </div>
             </div>
