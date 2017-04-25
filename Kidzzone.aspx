@@ -71,7 +71,7 @@
             </div>
                     
                     
-             <div class="col-md-2 col-xs 2">
+             <div class="col-md-1 col-xs 1">
                <img src="barberimages/gir.png" alt="Giraffe" style="width:100px;height:400px;float:right;">
             </div>
            </div>
