@@ -4,6 +4,7 @@
     <h2><%: Title %>.</h2>
     <h3>The perfect place for your child&#39;s haircut</h3>
     <div class="container">
+        <div class="kidzzone">
         <div class="row">
             <div class="col-md-8 col-xs-12">
             <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -100,7 +101,7 @@
                             </div>
                 </div>
             </div>
-  
+            </div>
         </div>
     </div>
     
