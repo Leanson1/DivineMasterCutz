@@ -46,7 +46,7 @@
                    </div>
            </div>
            <div class="col-md-4">
-               <a href="tel:4059737298">Give us a call</a>
+               <a href="tel:4059737298" class="btn btn-info">Book an Appointment</a>
                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21591.789453089964!2d-97.55284902998618!3d35.392526454273565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87b213a2c574ae83%3A0x31469629ce1a389d!2sDivine+Master+Cutz!5e0!3m2!1sen!2sus!4v1492612132267" width="350" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
                <div class="well well-lg">
                <h3>
