@@ -50,8 +50,7 @@
     <span class="sr-only">Previous</span>
   </a>
   <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <img src="barberimages/gir.png" alt="lion" style="width:100px;height:100px;float:right;">
-    <span class="sr-only">Next</span>
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <span class="sr-only">Next</span>
   </a>
 </div>
                
