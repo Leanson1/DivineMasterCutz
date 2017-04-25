@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="Kidz Zone" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeFile="Kidzzone.aspx.cs" Inherits="Kidzzone" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-     <div class="kidzzone">
+   
     <h2><%: Title %>.</h2>
     <h3>The perfect place for your child&#39;s haircut</h3>
     <div class="container">
@@ -77,6 +77,7 @@
 </div>
                
                 </div>
+              <div class="kidzzone">
             <div class="col-md-6 col-xs-6">
                 <div class="row">
                     <div class="col-md-12">
