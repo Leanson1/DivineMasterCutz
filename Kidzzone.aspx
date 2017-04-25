@@ -50,18 +50,17 @@
     <span class="sr-only">Previous</span>
   </a>
   <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <img src="barberimages/gir.png" alt="lion" style="width:100px;height:100px;float:right;">
     <span class="sr-only">Next</span>
   </a>
 </div>
                
                 </div>
               <div class="kidzzone">
-            <div class="col-md-8 col-xs-6">
+            <div class="col-md-6 col-xs-6">
                 <div class="row">
                     <div class="col-md-12">
                     <h3 style="color:blue;">Our friendly barbers will make every haircut fun and exciting</h3>
-                          <img src="barberimages/gir.png" alt="lion" style="width:100px;height:100px;float:right;">
                     </div>
                     
                 </div>
@@ -77,7 +76,10 @@
                     <h3 style="color:red;">They wont want to wait for their next cut.</h3>
                           <img src="barberimages/lion.png" alt="lion" style="width:100px;height:100px;float:left;">
                             </div>
-                </div>
+                    
+                    </div>
+               <div class="col-md-2 col-xs 2"></div>
+               <img src="barberimages/gir.png" alt="Giraffe" style="width:100px;height:400px;float:right;">
             </div>
             </div>
         </div>
