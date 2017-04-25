@@ -10,7 +10,7 @@
 
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-xs-6">
+            <div class="col-md-6 col-xs-12">
             <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
