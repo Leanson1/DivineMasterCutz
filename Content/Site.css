@@ -10,7 +10,9 @@ body {
     padding-left: 15px;
     padding-right: 15px;
 }
-
+.kidzzone{
+ background-color: #00ff00;   
+}
 /* Set widths on the form inputs since otherwise they're 100% wide */
 input,
 select,
