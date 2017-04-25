@@ -59,6 +59,7 @@
       <div class="col-md-6 col-xs-6">
             <div class="col-md-12">
                <h3 style="color:blue;">Our friendly barbers will make every haircut fun and exciting</h3>
+               <img src="barberimages/gir.png" alt="Giraffe" style="width:100px;height:200px;float:right;">
             </div>
             <div class="col-md-12">
                <h3 style="color:green;">Any style, cut, and design. We got it for you.</h3>
@@ -71,9 +72,7 @@
             </div>
                     
                     
-             <div class="col-md-1 col-xs 1">
-               <img src="barberimages/gir.png" alt="Giraffe" style="width:auto;height:200px;float:right;">
-            </div>
+             
            </div>
         </div>
     </div>
