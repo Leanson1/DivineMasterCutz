@@ -22,43 +22,43 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="barberimages/kidsbatman.jpg" alt="..." style="width: 100%;height:300px;">
+      <img src="barberimages/kidsbatman.jpg" alt="..." style="width: 100%;height:400px;">
       <div class="carousel-caption">
         ...
       </div>
     </div>
     <div class="item">
-      <img src="barberimages/kidsdesign.jpg" alt="..."  style="width:100%;height:300px;">
+      <img src="barberimages/kidsdesign.jpg" alt="..."  style="width:100%;height:400px;">
       <div class="carousel-caption">
         ...
       </div>
     </div>
      <div class="item">
-      <img src="barberimages/kidsbulding.jpg" alt="..." style="width:100%;height:300px;">
+      <img src="barberimages/kidsbulding.jpg" alt="..." style="width:100%;height:400px;">
       <div class="carousel-caption">
         ...
       </div>
     </div>
        <div class="item">
-      <img src="barberimages/kidsmeanmug.jpg" alt="..." style="width:100%;height:300px;">
+      <img src="barberimages/kidsmeanmug.jpg" alt="..." style="width:100%;height:400px;">
       <div class="carousel-caption">
         ...
       </div>
     </div>
        <div class="item">
-      <img src="barberimages/kidsmohawk.jpg" alt="..." style="width:100%;height:300px;">
+      <img src="barberimages/kidsmohawk.jpg" alt="..." style="width:100%;height:400px;">
       <div class="carousel-caption">
         ...
       </div>
     </div>
        <div class="item">
-      <img src="barberimages/kidsspike.jpg" alt="..." style="width:100%;height:300px;">
+      <img src="barberimages/kidsspike.jpg" alt="..." style="width:100%;height:400px;">
       <div class="carousel-caption">
         ...
       </div>
     </div>
        <div class="item">
-      <img src="barberimages/kidstaperfade.jpg" alt="..." style="width:100%;height:300px;">
+      <img src="barberimages/kidstaperfade.jpg" alt="..." style="width:100%;height:400px;">
       <div class="carousel-caption">
         ...
       </div>
