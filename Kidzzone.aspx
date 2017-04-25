@@ -6,7 +6,7 @@
  
     <p>&nbsp;</p>
  
-    <h4>Meet our staff</h4>
+    <h4>The fun is here</h4>
 
     <div class="container">
         <div class="row">
