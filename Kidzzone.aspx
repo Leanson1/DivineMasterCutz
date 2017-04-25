@@ -99,7 +99,7 @@
                 </div>
                  <div class="row">
                       <div class="col-md-12">
-                    <h3>Your kid will be begging to come back.</h3>
+                    <h3>They wont want to wait for their next cut.</h3>
                           <p>&nbsp;</p>
                           <p>&nbsp;</p>
                             </div>
