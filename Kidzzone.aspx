@@ -56,15 +56,11 @@
                
                 </div>
    <div class="row">
-      <div class="col-md-6 col-xs-6">
+      <div class="col-md-8 col-xs-8">
             <div class="col-md-12">
                <h3 style="color:blue;">Our friendly barbers will make every haircut fun and exciting</h3>
+               <p>We have many styles, cuts, and designs for you and your child to choose from.  </p>
                <img src="barberimages/gir.png" alt="Giraffe" style="width:100px;height:200px;float:right;">
-            </div>
-            <div class="col-md-12">
-               <h3 style="color:green;">Any style, cut, and design. We got it for you.</h3>
-                          <p>&nbsp;</p>
-                          <p>&nbsp;</p>
             </div>
             <div class="col-md-12">
                <h3 style="color:red;">They wont want to wait for their next cut.</h3>
