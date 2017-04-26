@@ -60,7 +60,7 @@
                      Instagram:OGBarberSause_405<br>
                 </p>
                  <p>
-                      <img src="barberimages/dervon.jpg" alt="Devon" class="img-circle" style="width:200px;height:200px;"><br>
+                      <img src="barberimages/CmI9l_HVYAAtAk1.jpg" alt="Devon" class="img-circle" style="width:200px;height:200px;"><br>
                      Name:Dervon<br>
                     Name:Dervon<br>
                      Title:Barber<br>
