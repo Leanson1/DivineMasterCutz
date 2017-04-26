@@ -1,7 +1,9 @@
 ﻿<%@ Page Title="Kidz Zone" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeFile="Kidzzone.aspx.cs" Inherits="Kidzzone" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-   
+   <script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-98051750-1', 'auto');  ga('send', 'pageview');
+</script>
     <h2 style="color:green;"><%: Title %>.</h2>
     <h3 style="color:orange;">The perfect place for your child's haircut</h3>
     <div class="container">
