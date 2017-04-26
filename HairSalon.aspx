@@ -21,7 +21,7 @@
                     <h4 align="center">Braids</h4>
                 </div>
                 <div class="col-md-3 col-xs-12">
-                    <img src="barberimages/https://github.com/Leanson1/DivineMasterCutz/blob/master/barberimages/IMG_2599.jpg" alt="Taper Fades" align="center" style="width:250px;height:350px;">
+                    <img src="barberimages/IMG_2599.jpg" alt="Taper Fades" align="center" style="width:250px;height:350px;">
                     <h4 align="center">Dreads</h4>
                 </div>
            <div class="row">
