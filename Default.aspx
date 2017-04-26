@@ -26,7 +26,8 @@
                    <div class="col-md-12">
                            <h2>Barber Shop</h2>
                            <p>
-                               Oklahoma city's best barbers will give you the best cut that will match your personal sense of style. That will keep you looking fresh and professional.
+                               Oklahoma city's best <a runat="server" href="~/Barbershop">Barbers</a> will give you the best cut that will match your personal sense of style. That will keep you looking fresh and professional.
+                               
                            </p>
                    </div>
                </div>
@@ -34,7 +35,7 @@
                    <div class="col-md-12">
                        <h2>Hair Salon</h2>
                        <p>
-                           Okc's best hair stylists provides each customer with a vast amount of services and skills.
+                           Okc's best <a runat="server" href="~/HairSalon">hair stylists</a> provides each customer with a vast amount of services and skills.
                        </p>
                    </div>
                </div>
@@ -42,7 +43,7 @@
                        <div class="col-md-12">
                            <h2>Kidz Zone</h2>
                            <p>
-                               Every age, boy, and girl are welcome. Our friendly and energetic staff will ensure that every childrens haircut is a fun and exciting experience.
+                               Every age, boy, and girl are welcome. Our friendly and energetic staff will ensure that every <a runat="server" href="~/Kidzzone">child's haircut</a> is a fun and exciting experience.
                            </p>
                        </div>
                    </div>
