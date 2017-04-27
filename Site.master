@@ -60,7 +60,7 @@
                    </ul>                                               
                         <ul class="nav navbar-nav navbar-right">
 
-                        <li><img src="barberimages/facebook_icon.png " alt="facebook" align="center"></li>
+                        <li><img src="barberimages/facebook_icon.png" href="https://www.facebook.com/DivineMasterCutz" alt="facebook" align="center"></li>
                         <li>twitter</li>
                         <li>Instagram</li>
                         </ul>
