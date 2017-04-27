@@ -58,12 +58,7 @@
                         <li><a runat="server" href="~/About">About</a></li>
                         <li><a runat="server" href="~/Contact">Contact</a></li>
                    </ul>                                               
-                        <ul class="nav navbar-nav navbar-right">
-
-                        <li><a href="https://www.facebook.com/DivineMasterCutz" img src="barberimages/facebook_icon.png" alt="facebook" align="center"></li>
-                        <li>twitter</li>
-                        <li>Instagram</li>
-                        </ul>
+                        
                 </div>
             </div>
         </div>
