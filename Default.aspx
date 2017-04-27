@@ -58,6 +58,11 @@
                </h3>
                </div>
            </div>
+           <div class="row">
+               <div class="col-md-8">
+               <div class="fb-comments" data-href="https://www.facebook.com/DivineMasterCutz" data-width="500" data-numposts="5"></div>
+               </div>
+           </div>
 
        </div>
    </div>
