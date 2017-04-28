@@ -75,6 +75,7 @@
            </div>
            <div class="row">
                <div class="col-md-8">
+                   <p>Leave a comment, tell us about your experience.</p>
                <div class="fb-comments" data-href="https://www.facebook.com/DivineMasterCutz" data-width="500" data-numposts="10"></div>
                </div>
            </div>
