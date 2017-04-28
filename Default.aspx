@@ -51,13 +51,13 @@
                    <div class="col-md-12">
                        <h4>Spread the word, get $2.00 off any cutz</h4>
                        <p></p>
-                       <div class="col-md-2 col-xs-2">
+                       <div class="col-md-4 col-xs-4">
                        <a href="https://www.facebook.com/DivineMasterCutz"><img src="barberimages/facebook_icon.png" alt="facebook"></a>
                        </div>
-                       <div class="col-md-2 col-xs-2">
+                       <div class="col-md-4 col-xs-4">
                            <a href="https://twitter.com/DivineCutz"><img src="barberimages/twitter.png" alt="Twitter"></a>
                        </div>
-                       <div class="col-md-2 col-xs-2">
+                       <div class="col-md-4 col-xs-4">
                        <a href="https://www.instagram.com/divine_master_cutz/"><img src="barberimages/instagram.png" alt="Instagram"></a>
                        </div>
                    </div>
