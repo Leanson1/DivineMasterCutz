@@ -48,7 +48,7 @@
                        </div>
                    </div>
                <div class="row">
-                   <div class="well well-lg">
+                   <div class="well">
                    <div class="col-md-12">
                        <h3>Spread the word, get 5%. off any haircut</h3>
                        <p>Follow, like, tweet, comment, and share.</p>
