@@ -59,8 +59,8 @@
                        </div>
                        <div class="col-md-4 col-xs-4">
                        <a href="https://www.instagram.com/divine_master_cutz/"><img src="barberimages/instagram.png" alt="Instagram"></a>
-                       <p>Follow, like, tweet, comment, and share.</p>
                        </div>
+                       <p>Follow, like, tweet, comment, and share.</p>
                    </div>
                    </div>
                </div>
