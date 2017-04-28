@@ -49,8 +49,8 @@
                    </div>
                <div class="row">
                    <div class="col-md-12">
-                       <h4>Spread the word, get $2.00 off any cutz</h4>
-                       <p></p>
+                       <h4>Spread the word, get 5%. off any haircut</h4>
+                       <p>Follow, like, tweet, comment, and share.</p>
                        <div class="col-md-4 col-xs-4">
                        <a href="https://www.facebook.com/DivineMasterCutz"><img src="barberimages/facebook_icon.png" alt="facebook"></a>
                        </div>
