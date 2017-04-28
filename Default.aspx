@@ -52,7 +52,7 @@
                    <div class="col-md-12">
                        <h3>Spread the word, get 5%. off any haircut</h3>
                        <div class="col-md-4 col-xs-4">
-                       <a href="https://www.facebook.com/DivineMasterCutz"><img src="barberimages/facebook_icon.png" alt="facebook"></a>
+                       <a href="https://www.facebook.com/DivineMasterCutz"><img src="barberimages/facebook-small-logo.gif" alt="facebook"></a>
                        </div>
                        <div class="col-md-4 col-xs-4">
                            <a href="https://twitter.com/DivineCutz"><img src="barberimages/twitter.png" alt="Twitter"></a>
