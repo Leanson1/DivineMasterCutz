@@ -60,16 +60,6 @@
                      Instagram:OGBarberSause_405<br>
                 </p>
                  <p>
-                      <img src="barberimages/CmI9l_HVYAAtAk1.jpg" alt="Devon" class="img-circle" style="width:200px;height:200px;"><br>
-                     Name:Dervon<br>
-                    Name:Dervon<br>
-                     Title:Barber<br>
-                     Bio:So very cool and very social<br>
-                     Skills:Taper fades, Beard<br>
-                     Twitter:<a href="https://twitter.com/DeVoNextdoor">Dervon</a><br>
-                     
-                </p>  
-                 <p>
                       <img src="barberimages/Melvin.jpg" alt="Melvin" class="img-circle" style="width:200px;height:200px;"><br>
                      Name:Melvin aka... Mellemel<br>
                      Title:Barber<br>
